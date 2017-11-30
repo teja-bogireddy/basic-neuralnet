@@ -1,2 +1,1 @@
-# basic-neuralnet
-Implementation of a basic neural network in language 'C' for "Wine" classifiction
+Dataset contains 13 attributes for 3 different classes of Wine.
